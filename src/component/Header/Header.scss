@@ -1,0 +1,18 @@
+@import '../Style/Shared/color.scss';
+
+.first{
+    border: 1px solid $primary-color;
+    color:$text-important ;
+}
+.second{
+    border: 1px solid $primary-color;
+    color:$text-description-color;
+}
+.three{
+    border: 1px solid $primary-color;
+    color:$text-important ;
+}
+.four{
+    border: 1px solid $primary-color;
+    color: $text-description-color;
+}
